@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="VehicleSirenLights.cpp" />
+    <ClCompile Include="GUI.cpp" />
+    <ClCompile Include="KeyListener.cpp" />
+    <ClCompile Include="Vehicles.cpp" />
+    <ClCompile Include="Vehicle.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="VehicleSirenLights.h" />
+    <ClInclude Include="pch.h" />
+    <ClInclude Include="GUI.h" />
+    <ClInclude Include="KeyListener.h" />
+    <ClInclude Include="LightData.h" />
+    <ClInclude Include="Vehicle.h" />
+    <ClInclude Include="Vehicles.h" />
+  </ItemGroup>
+</Project>
